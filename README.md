@@ -1,3 +1,5 @@
+![credit-risk-mitigation-words-on-magnifier-glass-with-dollars-and-charts-photo](https://github.com/user-attachments/assets/e68dfb19-75a6-448a-b0f4-382ca7681110)
+
 # 🏦 Credit Risk Analysis: Predicting Loan Defaults using Logistic Regression & XGBoost
 # 📌 Overview
 
