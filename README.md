@@ -1,6 +1,6 @@
 ![credit-risk-mitigation-words-on-magnifier-glass-with-dollars-and-charts-photo](https://github.com/user-attachments/assets/e68dfb19-75a6-448a-b0f4-382ca7681110)
 
-# 🏦 Credit Risk Analysis: Predicting Loan Defaults using Logistic Regression & XGBoost - March 17
+# 🏦 Credit Risk Analysis: Predicting Loan Defaults using Logistic Regression & XGBoost - March 17, 2025
 # 📌 Overview
 
 This project analyzes loan default risk using real-world financial data to help lenders make data-driven lending decisions. The goal is to develop a predictive yet interpretable model that identifies high-risk borrowers based on their demographics, employment history, credit behavior, and loan details.
